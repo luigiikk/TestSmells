@@ -1,4 +1,4 @@
-## Ignored Test (JavaScript)
+## Lazy Test (JavaScript)
 
 ```javascript
 test("should handle user actions", () => {
