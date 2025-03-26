@@ -1,4 +1,4 @@
- ## Redudant Assertion (JavaScript)
+ ## Resource Optimism (JavaScript)
 
 ```javascript 
  test('should read the file contents', () => {
