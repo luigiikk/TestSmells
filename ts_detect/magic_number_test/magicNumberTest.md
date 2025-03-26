@@ -1,4 +1,4 @@
-## Ignored Test (JavaScript)
+## Magic Number Test (JavaScript)
 
 ```javascript
 test("should check if user is adult", () => {
