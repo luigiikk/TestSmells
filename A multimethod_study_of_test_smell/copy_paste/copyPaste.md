@@ -1,4 +1,4 @@
-## Copy-Paste (JavaScript)
+## Copy-Paste (Go)
 
 ```golang
   case bbtProto.CollectionType_SELF_PICKUP:
