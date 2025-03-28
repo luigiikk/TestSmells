@@ -2,6 +2,5 @@
 
 ```javascript 
  test('should check if true is true', () => {
-    const value = true;
-    expect(value).toBe(true); true
+    expect(true).toBe(true)
   });
